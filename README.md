@@ -93,9 +93,9 @@ http://localhost:5000
 
 ```json
 {
-  "name": "John Doe",
-  "email": "john@example.com",
-  "age": 25
+  "name": "Victory Mwendwa",
+  "email": "victorymwendwa@gmail.com",
+  "age": 20
 }
 ```
 
@@ -107,8 +107,8 @@ http://localhost:5000
 [
   {
     "_id": "65fcad154a947fd68b192b2d",
-    "name": "John Doe",
-    "email": "john@example.com",
+    "name": "Imani Baraka",
+    "email": "ibaraka@gmail.com.com",
     "age": 25
   }
 ]
